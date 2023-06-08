@@ -22,6 +22,7 @@ public:
     void traverse();
 };
 
+
 new node;
 
 void CircularLinkedList::addNode() { //write your answer here
